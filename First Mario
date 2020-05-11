@@ -1,0 +1,18 @@
+$ ./mario
+
+do
+{
+    n=get_int ("Positive Number: 6)
+    
+    }
+    while (n < 1);
+do
+{
+     //  positive number
+}
+while (
+
+for ()
+{
+     printf ("hash %s\n");
+     }
